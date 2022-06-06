@@ -28,7 +28,7 @@
 #git clone https://github.com/fw876/helloworld package/luci-app-ssr-plus
 #git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 
-#git clone https://github.com/sirpdboy/luci-app-advanced package/luci-app-advanced
-#git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+git clone https://github.com/sirpdboy/luci-app-advanced package/luci-app-advanced
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 
 #sed -i 's/PATCHVER:=5.4/PATCHVER:=5.10/g' target/linux/ramips/Makefile
